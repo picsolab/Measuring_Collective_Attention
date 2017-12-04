@@ -1,4 +1,4 @@
-Abstract (our paper)
+## Abstract (our paper)
 
 There has been growing interest in leveraging Web-based social and communication technologies for better crisis response. How might the 
 Web platforms be used as an observatory to systematically understand the dynamics of the public’s attention during disaster events? And 
@@ -12,7 +12,7 @@ show that the proposed sampling approach significantly outperforms several alter
 and preserving the information with a small set of sampling targets, suggesting the utility of the proposed method in various realistic 
 settings.
 
-Data
+## Data
 
 We collect tweets from the local users around multiple shocking terrorist attacks in 2015 and 2016 - the Paris attacks on 13 November 2015,
 the San Bernardino shooting on 2 December 2015, the Brussels bombings on 22 March 2016 and the Orlando nightclub shooting on 12 June 2016.
@@ -23,7 +23,7 @@ For each event, we have the user activity during the event week with the event d
 
 
 
-Publication
+## Publication
 
 This data set was created for our study. If you make use of this data set, please cite:
 
